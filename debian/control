@@ -17,13 +17,6 @@ Homepage: https://pypi.python.org/pypi/janus
 Vcs-Git: https://github.com/aio-libs/janus.git
 Vcs-Browser: https://github.com/aio-libs/janus
 
-Package: python-janus
-Architecture: all
-Depends:
- ${misc:Depends},
- ${python:Depends}
-Description: Thread-safe asyncio-aware queue
-
 Package: python3-janus
 Architecture: all
 Depends:
