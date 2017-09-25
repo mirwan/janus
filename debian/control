@@ -5,12 +5,8 @@ Maintainer: Andrew Svetlov <andrew.svetlov@gmail.com>
 Uploaders: Andrew Svetlov <andrew.svetlov@gmail.com>
 Build-Depends:
  debhelper (>= 9),
- dh-python,
- python-all (>= 2.7),
- python-setuptools,
  python3-all (>= 3.4),
  python3-setuptools,
-X-Python-Version: >= 2.7
 X-Python3-Version: >= 3.4
 Standards-Version: 3.9.8
 Homepage: https://pypi.python.org/pypi/janus
